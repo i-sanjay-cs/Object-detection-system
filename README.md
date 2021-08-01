@@ -14,9 +14,11 @@ https://pjreddie.com/darknet/yolo/
 
 After cloning the repo :-
 
-1. Download the  yolov4.weights from https://mega.nz/file/XuJUSDjB#DChADdz4EjuQ1sTdAmhKSNRQwoPCXtHOv2fNGYAJCVw and move to the project directory in main folder "/object-detection-system/yolov4.weights" . 
+1. Download the  yolov4.weights from https://mega.nz/file/XuJUSDjB#DChADdz4EjuQ1sTdAmhKSNRQwoPCXtHOv2fNGYAJCVw 
+ and move to the project directory in main folder "/object-detection-system/yolov4.weights" . 
 
-2.Install python from https://www.python.org/ or you can install anaconda most preferable will be anaconda download it from  https://www.anaconda.com/ . 
+2.Install python from https://www.python.org/ or you can install anaconda most preferable will be anaconda 
+download it from  https://www.anaconda.com/ . 
 
 3. Install tkinter  , run -  pip install tk
 
