@@ -104,5 +104,16 @@ cuda compilation source : - https://haroonshakeel.medium.com/build-opencv-4-4-0-
 If you get any problem in cuda compilation check out this above blog.
 
 
+The output of detection is : 
+
+![3](https://user-images.githubusercontent.com/70086773/127762417-63ddaa15-ae07-4a7a-b973-706f9576effe.jpg)
+![4](https://user-images.githubusercontent.com/70086773/127762419-65e60ae6-28b4-461d-a04b-494a272bcf60.jpg)
+![5](https://user-images.githubusercontent.com/70086773/127762421-da8c9913-f6d7-4516-af00-298b784c5608.jpg)![6](https://user-images.githubusercontent.com/70086773/127762423-7f2bd632-19c6-40b3-a055-364dbaa9bc17.jpg)
+![7](https://user-images.githubusercontent.com/70086773/127762425-54c34147-016a-4e5f-a420-ab1ad575684b.jpg)
+![8](https://user-images.githubusercontent.com/70086773/127762427-bfa7ce70-b05c-44e1-a6c6-b760039b0846.jpg)
+
+
+
+
 
 
