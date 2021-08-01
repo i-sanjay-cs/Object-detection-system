@@ -12,6 +12,11 @@ refer this above links for more accurate information.
 Now in detection, I have use the yolo framework in which the detection is done by this framework for more information on yolo you can check out :-
 https://pjreddie.com/darknet/yolo/ 
 
+![1](https://user-images.githubusercontent.com/70086773/127762327-cd83e4fe-050a-4615-b419-a8f353f139cb.PNG)
+![2](https://user-images.githubusercontent.com/70086773/127762331-7ec0573e-37e2-450a-b4e7-73eaa4606e4c.PNG)
+
+
+
 After cloning the repo :-
 
    1. Download the  yolov4.weights from https://mega.nz/file/XuJUSDjB#DChADdz4EjuQ1sTdAmhKSNRQwoPCXtHOv2fNGYAJCVw 
