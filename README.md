@@ -5,7 +5,8 @@ Object detection system build using  computer vision and image processing concep
 In this object detection system in which we have used yolo and eel framework ,  yolo for the detection and for the frontend used eel which provides the
 functionality for mnaking the modern gui its host the webserver to display the gui for  info on eel you can check out this :-
 https://github.com/ChrisKnott/Eel , https://martin-thoma.com/eel/ , https://pypi.org/project/Eel/ 
-Eel has directory stsructure whcih shouls be followed for display ths html template the whole information are given in this link , 
+
+Eel has directory structure which should be followed for display ths html template the whole information are given in this link , 
 refer this above links for more accurate information.
 
 Now in detection, I have use the yolo framework in which the detection is done by this framework for more information on yolo you can check out :-
