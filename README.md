@@ -114,7 +114,7 @@ The output of detection is :
 ![7](https://user-images.githubusercontent.com/70086773/127762425-54c34147-016a-4e5f-a420-ab1ad575684b.jpg)
 ![8](https://user-images.githubusercontent.com/70086773/127762427-bfa7ce70-b05c-44e1-a6c6-b760039b0846.jpg)
 
-[FSGROUP 4.pdf](https://github.com/sanjayfs18if054/Object-detection-system/files/6912275/FSGROUP.4.pdf)
+[Object detection system.pdf](https://github.com/sanjayfs18if054/Object-detection-system/files/6912275/FSGROUP.4.pdf)
 
 Project report on object detection system
 
