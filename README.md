@@ -14,6 +14,8 @@ https://pjreddie.com/darknet/yolo/
 
 After cloning the repo :-
 
+1. Download the  yolov4.weights from https://mega.nz/file/XuJUSDjB#DChADdz4EjuQ1sTdAmhKSNRQwoPCXtHOv2fNGYAJCVw and move to the project directory in main folder "/object-detection-system/yolov4.weights" . 
+
 1.Install python from https://www.python.org/ or you can install anaconda most preferable will be anaconda download it from  https://www.anaconda.com/ . 
 
 2. Install tkinter  , run -  pip install tk
@@ -23,6 +25,7 @@ After cloning the repo :-
 4. Install numpy    , run -  pip install numpy
 
 5. Install eel      , run -  pip install eel[jinja2]
+
  
 After Installing the above libraries you are good to go and you can start with detection.
 
