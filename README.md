@@ -88,6 +88,8 @@ Step 3 :- Making OpenCV with Visual Studio
 
 That's it 
 
+cuda compilation source : - https://haroonshakeel.medium.com/build-opencv-4-4-0-with-cuda-gpu-support-on-windows-10-without-tears-aa85d470bcd0 
+if you get any problem in cuda compilation check out this above blog.
 
 
 
