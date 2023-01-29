@@ -115,6 +115,9 @@ The output of detection is :
 ![8](https://user-images.githubusercontent.com/70086773/127762427-bfa7ce70-b05c-44e1-a6c6-b760039b0846.jpg)
 
 
+The Whole Description about the Project and details can be found here https://github.com/i-sanjay-cs/Object-detection-system/blob/main/Whole%20Document.pdf
+
+
 
 
 
